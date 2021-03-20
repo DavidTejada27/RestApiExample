@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RestApiExample.Views.MainPage"
+             Title="Synonyms"
+             NavigationPage.HasNavigationBar="True">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center" >
+        <Entry Text="{Binding Word}"/>
+        <Button Text="Synonyms" TextColor="Black" BackgroundColor="LightGray" Command="{Binding InstanceCommand}"/>
+    </StackLayout>
+    
+</ContentPage>

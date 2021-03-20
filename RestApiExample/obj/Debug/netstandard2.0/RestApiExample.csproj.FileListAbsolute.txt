@@ -1,0 +1,14 @@
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\bin\Debug\netstandard2.0\RestApiExample.deps.json
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\bin\Debug\netstandard2.0\RestApiExample.dll
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\bin\Debug\netstandard2.0\ref\RestApiExample.dll
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\bin\Debug\netstandard2.0\RestApiExample.pdb
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\RestApiExample.csprojAssemblyReference.cache
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\RestApiExample.AssemblyInfoInputs.cache
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\RestApiExample.AssemblyInfo.cs
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\RestApiExample.csproj.CoreCompileInputs.cache
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\RestApiExample.dll
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\ref\RestApiExample.dll
+D:\Users\David Rafael Tejada\source\repos\RestApiExample\RestApiExample\obj\Debug\netstandard2.0\RestApiExample.pdb
